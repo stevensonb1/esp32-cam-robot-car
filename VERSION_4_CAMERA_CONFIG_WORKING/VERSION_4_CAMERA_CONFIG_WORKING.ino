@@ -8,8 +8,8 @@
 #include "soc/rtc_cntl_reg.h"    // disable brownout problems
 #include "esp_http_server.h"
 
-const char* ssid = "Nigga!!!";
-const char* password = "nigga!!!";
+const char* ssid = "Freddys s20";
+const char* password = "ppst2649";
 
 IPAddress local_IP(192, 168, 1, 184); // desired IP
 IPAddress gateway(192, 168, 1, 1); // routers IP
